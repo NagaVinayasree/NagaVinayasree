@@ -1,5 +1,8 @@
 ## Hi there 👋
-##### Portfolio Website:[Portfolio](https://nagavinayasree.github.io/)
+#### 🎯 Portfolio Website: [Portfolio](https://nagavinayasree.github.io/)
+#### 💬 Ask me about anything, I am happy to help 😄
+#### 📬 How to reach me: [Let's get in touch!](vinayasreekottamasu@gmail.com)
+
 <!--
 **NagaVinayasree/NagaVinayasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
